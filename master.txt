@@ -1,1 +1,2 @@
 this is my first git text.
+ i will add some new info.
